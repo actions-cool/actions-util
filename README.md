@@ -16,10 +16,11 @@ import { checkPermission } from 'actions-util';
 checkPermission(require, permission);
 ```
 
-## 🎁 API
+## 🎁 Export
 
 - [checkPermission](#checkPermission) `1.0.0`
 - [dealStringToArr](#dealstringtoarr) `1.0.0`
+- THANKS `1.1.0`
 
 ### checkPermission
 
