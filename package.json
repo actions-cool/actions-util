@@ -2,9 +2,8 @@
   "private": false,
   "name": "actions-util",
   "version": "1.1.2",
-  "main": "dist/index.js",
-  "module": "dist/index.esm.js",
-  "typings": "dist/index.d.ts",
+  "main": "lib/index.js",
+  "module": "es/index.js",
   "scripts": {
     "build": "father-build",
     "format": "prettier --write src/*.ts",
@@ -24,6 +23,8 @@
   ],
   "files": [
     "dist",
+    "lib",
+    "es",
     "CHANGELOG.md",
     "README.md"
   ],

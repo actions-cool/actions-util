@@ -1,8 +1,7 @@
 export default {
   esm: {
-    type: 'rollup',
-    importLibToEs: true,
+    type: 'babel',
   },
-  cjs: 'rollup',
+  cjs: 'babel',
   runtimeHelpers: true,
 };
