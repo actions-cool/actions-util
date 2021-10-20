@@ -1,6 +1,7 @@
 export default {
   esm: {
-    type: 'babel',
+    type: 'rollup',
+    file: 'index',
   },
   cjs: 'babel',
   runtimeHelpers: true,
