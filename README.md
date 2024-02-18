@@ -3,7 +3,7 @@
 🚀 A util for Actions.
 
 [![npm](https://img.shields.io/npm/v/actions-util?style=flat-square&color=orange)](https://www.npmjs.com/package/actions-util)
-![](https://img.shields.io/github/workflow/status/actions-cool/actions-util/CI?style=flat-square)
+![](https://img.shields.io/github/actions/workflow/status/actions-cool/actions-util/test.yml?style=flat-square&branch=main)
 ![](https://img.shields.io/npm/l/actions-util?style=flat-square&color=blue)
 
 ## 🚀 Usage
